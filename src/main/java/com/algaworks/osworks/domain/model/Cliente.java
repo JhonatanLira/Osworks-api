@@ -35,6 +35,7 @@ public class Cliente {
 	@Column(name = "fone")
 	private String telefone;
 
+
 	public Long getId() {
 		return id;
 	}
