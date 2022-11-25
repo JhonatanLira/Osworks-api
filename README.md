@@ -6,7 +6,7 @@ Mergulho Spring Rest - Algaworks
 <h3><strong>Api de um sitema de logistica </strong></h3![diagrama-de-classes](https://user-images.githubusercontent.com/32622573/200060935-522ce27f-f44a-4d54-87f7-96abade6df2d.png)>
 
 <p> O sistema consiste em um cliente fará um pedido que contará um destinatário e endereço de entrega.</p>
-<img src ="diagrama-de-classes.png"/>
+<img with="500" height="500" src ="diagrama-de-classes.png"/>
 <h4>
 :construction:
 Projeto em construção
