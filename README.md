@@ -7,7 +7,9 @@ Mergulho Spring Rest - Algaworks
 </p>
 
 <p> O sistema consiste em um cliente fará um pedido que contará um destinatário e endereço de entrega.</p>
+
 <img align="center" with="280" height="280"  src ="diagrama-de-classes.png"/>
+
 <h4>
 :construction:
 Projeto em construção
