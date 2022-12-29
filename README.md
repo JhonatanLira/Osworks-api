@@ -10,8 +10,8 @@ Mergulho Spring Rest - Algaworks
      <br>
    <h3>Aprendizado</h3>
 
-     Conhecimentos empregados como Spring Boot, Spring MVC, Rest, Lombok, persistência de dados em SGBD MySQL, Jakarta Persistence,
-     Spring Data JPA, Flyway, fazer validação com Bean Validation, tratamento de exceptions e boas práticas de programação.
+     Conhecimentos empregados como Spring Boot, Spring MVC, Rest, Lombok, persistência de dados em SGBD MySQL, 
+     Jakarta Persistence, Spring Data JPA, Flyway, fazer validação com Bean Validation, tratamento de exceptions e boas práticas de programação.
         
 
 
