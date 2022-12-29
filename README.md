@@ -19,7 +19,8 @@ Mergulho Spring Rest - Algaworks
 <img with="100" height="100" src="img/icons8-spring-boot-80.png"/> &nbsp;
 <img with="100" height="100" src="img/jakarta.png"/> &nbsp;
 <img with="100" height="100" src="img/Lombok.png"/> &nbsp;
-<img with="100" height="100" src="img/icons8-mysql-logo-144.png"/> &nbsp;
+<img with="100" height="100" src="img/spring-data.png"/> &nbsp;
+<img with="100" height="100" src="img/icons8-mysql-logo-144.png"/>
 
 
 
