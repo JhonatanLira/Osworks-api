@@ -7,12 +7,11 @@ Mergulho Spring Rest - Algaworks
 </p>
 
 <p> O sistema consiste em um cliente fará um pedido que contará um destinatário e endereço de entrega.</p>
-<br>
-<h3>Aprendizado</h3>
+     <br>
+   <h3>Aprendizado</h3>
 
-
-     <p> Conhecimentos empregados como Spring Boot, Spring MVC, Rest, Lombok, persistência de dados em SGBD MySQL, Jakarta Persistence,<br> Spring Data JPA, Flyway,
-     fazer validação com Bean Validation, tratamento de exceptions e boas práticas de programação.</p>
+     Conhecimentos empregados como Spring Boot, Spring MVC, Rest, Lombok, persistência de dados em SGBD MySQL, Jakarta Persistence,
+     Spring Data JPA, Flyway, fazer validação com Bean Validation, tratamento de exceptions e boas práticas de programação.
         
 
 
