@@ -39,8 +39,9 @@ public class EntregaController {
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)
 	public EntregaModel solicitar(@Valid @RequestBody Entrega entrega) {
-
-		return entregaAssembler.toModel(solicitacaoEntregaService.solicitar(entrega));
+			Entrega entregaSolicitada = solicitacaoEntregaService.solicitar(entrega);
+			
+		return entregaAssembler.toModel(entregaSolicitada);
 				
 	}
 
@@ -51,4 +52,6 @@ public class EntregaController {
 				.map(entrega -> ResponseEntity.ok(entregaAssembler.toModel(entrega)))
 				.orElse(ResponseEntity.notFound().build());
 	}
+	
+	
 }
