@@ -1,6 +1,5 @@
 <h1> Osworks-api </h1>
 <p>
-:man_technologist:
 <h3><strong>Api de um sitema de logistica </strong></h3> 
 </p>
 
