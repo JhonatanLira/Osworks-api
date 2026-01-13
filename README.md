@@ -1,6 +1,4 @@
 <h1> Osworks-api </h1>
-Mergulho Spring Rest - Algaworks
-
 <p>
 :man_technologist:
 <h3><strong>Api de um sitema de logistica </strong></h3> 
